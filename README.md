@@ -14,7 +14,8 @@ These basic considerations along with the management team influence what is acce
 Experience is sometimes overlooked to favor the younger programmers. It must be admitted that there is talent among both categories yet investment in a young programmer does not in itself guarantee longevity with a business. In recent years, young and upcoming programmers usually attain some experience and in 1-2 years are out looking for other employment opportunities.
 
  📫 How to reach me: ... simon@k-graphics.ca
-
+ <p>To see some of my Graphic Design work <a href="http://www.k-graphics.ca" target="_blank"> visit my website.</a>
+ 
 
 <!--
 **SimonKoy/SimonKoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
